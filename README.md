@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on as Associate Software Engineer @Awash Bank
+- 🔭 I’m currently working as Associate Software Engineer @Awash Bank
 - 👀 I'm interested in Web Developement, API Building 
 - 📫 How to reach me: by Email:- gado8teka@gmail.com
 
