@@ -11,4 +11,4 @@
 - 📫 How to reach me: Email me on
 - 📧 Let's connect: gado8teka@gmail.com
 - 🌐 Portfolio: https://my-portfolio-hinsoo12.vercel.app/
-- 📚 Blog: hinsoo.com
+- 📚 Blog: https://hinsoo.com  
