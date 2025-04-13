@@ -10,5 +10,5 @@
 - 🎮 Gamer by night
 - 📫 How to reach me: Email me on
 - 📧 Let's connect: gado8teka@gmail.com
-- 🌐 Portfolio: https://my-portfolio-hinsoo12.vercel.app/
+- 🌐 Portfolio: https://gadisateka-portfolio.vercel.app/
 - 📚 Blog: https://hinsoo.com  
